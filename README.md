@@ -1,6 +1,7 @@
-# Hi there! 👋
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&vCenter=true&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B;Introduction%3A)](https://git.io/typing-svg)
+Hello, I'm Dewangga Nanda Arjuna, a student currently studying System Information at Universitas Pembangunan Nasional "Veteran" Jawa Timur. I'm currently diving into the world of back-end development, learning languages like JavaScript and SQL. Feel free to ask me anything about my journey in software development!
 
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on Improving my skills in JavaScript and SQL as a Back-End JavaScript Student at Binar Academy.<br>🌱 I’m currently learning JavaScript and SQL for back-end development.<br>⚡ Fun fact I enjoy solving coding challenges and learning new programming languages.
 
 
