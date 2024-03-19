@@ -1,4 +1,19 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&vCenter=true&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B;Introduction%3A)](https://git.io/typing-svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/someth1ngs/someth1ngs/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/someth1ngs/someth1ngs/manual-run-output/only-svg/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/someth1ngs/someth1ngs/manual-run-output/only-svg/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFFFFF&vCenter=true&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B;Introduction%3A)](https://git.io/typing-svg)
 Hello, I'm Dewangga Nanda Arjuna, a student currently studying System Information at Universitas Pembangunan Nasional "Veteran" Jawa Timur. I'm currently diving into the world of back-end development, learning languages like JavaScript and SQL. Feel free to ask me anything about my journey in software development!
 
 # About Me:
@@ -14,18 +29,3 @@ Hello, I'm Dewangga Nanda Arjuna, a student currently studying System Informatio
 ![](https://github-readme-stats.vercel.app/api?username=Someth1ngs&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Someth1ngs&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Someth1ngs&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/someth1ngs/someth1ngs/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/someth1ngs/someth1ngs/manual-run-output/only-svg/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/someth1ngs/someth1ngs/manual-run-output/only-svg/github-contribution-grid-snake.svg"
-  />
-</picture>
