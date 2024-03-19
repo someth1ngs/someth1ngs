@@ -1,4 +1,4 @@
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+### Hi There
 
 # 💫 About Me:
 🔭 I’m currently working on Improving my skills in JavaScript and SQL as a Back-End JavaScript Student at Binar Academy.<br>🌱 I’m currently learning JavaScript and SQL for back-end development.<br>⚡ Fun fact I enjoy solving coding challenges and learning new programming languages.
@@ -14,4 +14,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Someth1ngs&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Someth1ngs&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
