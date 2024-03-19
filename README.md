@@ -1,4 +1,4 @@
-### Hi there 👋
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 # 💫 About Me:
 🔭 I’m currently working on Improving my skills in JavaScript and SQL as a Back-End JavaScript Student at Binar Academy.<br>🌱 I’m currently learning JavaScript and SQL for back-end development.<br>⚡ Fun fact I enjoy solving coding challenges and learning new programming languages.
