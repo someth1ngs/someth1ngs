@@ -14,4 +14,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Someth1ngs&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Someth1ngs&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![someth1ngs snake gif](https://github.com/someth1ngs/someth1ngs/blob/output/github-contribution-grid-snake.svg)
+![mishmanners snake gif](https://github.com/someth1ngs/someth1ngs/blob/output/github-contribution-grid-snake.svg)
