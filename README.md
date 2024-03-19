@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" />
+# Hi there! 👋
 
 # 💫 About Me:
 🔭 I’m currently working on Improving my skills in JavaScript and SQL as a Back-End JavaScript Student at Binar Academy.<br>🌱 I’m currently learning JavaScript and SQL for back-end development.<br>⚡ Fun fact I enjoy solving coding challenges and learning new programming languages.
